@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Список фруктів</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        ul {
+            background-color: #f0f8ff;
+            padding: 20px;
+            width: 250px;
+            list-style: none;
+        }
+        li {
+            background-color: #add8e6;
+            margin: 10px 0;
+            padding: 10px;
+        }
+        li span {
+            background-color: #6495ed;
+            padding: 2px 5px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h2>Список фруктів</h2>
+    <ul>
+        <li><span>Яблуко</span></li>
+        <li><span>Банан</span></li>
+        <li><span>Апельсин</span></li>
+        <li><span>Виноград</span></li>
+        <li><span>Груша</span></li>
+    </ul>
+</body>
+</html>
