@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Подія Flexbox</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Подія року: Виставка сучасного мистецтва</h1>
+    </header>
+
+    <main class="container">
+        <section class="event">
+            <h2>Місце проведення</h2>
+            <p>Національний художній музей, Київ.</p>
+        </section>
+
+        <section class="event">
+            <h2>Дата та час</h2>
+            <p>15–20 грудня 2025 року, 10:00–18:00</p>
+        </section>
+
+        <section class="event">
+            <h2>Опис події</h2>
+            <p>Виставка сучасного мистецтва з колекціями відомих художників та нових талантів.</p>
+        </section>
+
+        <section class="event">
+            <h2>Вхід</h2>
+            <p>Вхід вільний для всіх відвідувачів.</p>
+        </section>
+
+        <section class="event">
+            <h2>Контакти</h2>
+            <p>Email: info@art-expo.ua, Тел.: +380 44 123 45 67</p>
+        </section>
+
+        <section class="event">
+            <h2>Соцмережі</h2>
+            <p>Facebook | Instagram | Telegram</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Іван Іванович. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
