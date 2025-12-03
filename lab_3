@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна робота №3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Лабораторна робота №3: Таблиці у Web</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>№</th>
+                <th>Ім'я</th>
+                <th>E-mail</th>
+                <th>Стать</th>
+                <th>Дата</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Олександр Іваненко</td>
+                <td>oleksandr.ivanenko@example.com</td>
+                <td>Ч</td>
+                <td>03.12.2025</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Марія Коваль</td>
+                <td>maria.koval@example.com</td>
+                <td>Ж</td>
+                <td>03.12.2025</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Петро Сидоренко</td>
+                <td>petro.sidorenko@example.com</td>
+                <td>Ч</td>
+                <td>03.12.2025</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5">Всього: 3</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
