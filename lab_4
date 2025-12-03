@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна робота №4</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Ноутбук: Компонента сайту</h2>
+    <div class="container">
+        <img src="images/laptop.jpg" alt="Ноутбук" class="product-image">
+        <div class="product-info">
+            <h3 class="product-name">Lenovo IdeaPad 5</h3>
+            <p class="property"><strong>Діагональ:</strong> 15.6"</p>
+            <p class="property"><strong>Процесор:</strong> Intel Core i5-1135G7</p>
+            <p class="property"><strong>Оперативна пам'ять:</strong> 16 ГБ</p>
+            <p class="property"><strong>SSD:</strong> 512 ГБ</p>
+        </div>
+        <div class="buttons">
+            <button class="btn-add">Add to Cart</button>
+            <button class="btn-fav">Add to Favorites</button>
+            <button class="btn-delete">Delete</button>
+        </div>
+    </div>
+</body>
+</html>
