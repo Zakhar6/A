@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна робота №7 - Варіант 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Заголовок сайту</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Головна</a></li>
+            <li><a href="#">Про нас</a></li>
+            <li><a href="#">Послуги</a></li>
+            <li><a href="#">Контакти</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <article>
+            <h2>Основний контент</h2>
+            <p>Тут розташовується головний текст сторінки...</p>
+        </article>
+
+        <aside>
+            <h3>Бокова панель</h3>
+            <p>Додаткова інформація, посилання, реклами...</p>
+        </aside>
+    </main>
+
+    <footer>
+        <p>© 2025 Іван Анатолійович. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
